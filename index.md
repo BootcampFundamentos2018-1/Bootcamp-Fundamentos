@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Bootcamp fundamentos de construcción de Software (2018-1)
 
-You can use the [editor on GitHub](https://github.com/BootcampFundamentos2018-1/page/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+En este site encontraremos reunidos los distintos ejericios desarrollados por los estudiantes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Proyecto 1: Figuras
+## Conceptos: 
+Métodos. Single Responsibility Principle (SRP) y Don’t Repeat Yourself (DRY). Expresiones Lambda y Parametrización de Métodos. Pruebas Unitarias.
+## Soluciones:
 
-### Markdown
+# Proyecto 2: Fracciones
+## Conceptos: 
+Tipos de Datos, Métodos y Atributos. Encapsulamiento e Inmutabilidad. Constructores y Fábricas.+
+## Soluciones:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Proyecto 3: Juego de la Vida de Conway
+## Conceptos: 
+Archivos (NIO2), Enums y Arreglos.
+## Soluciones:
 
-```markdown
-Syntax highlighted code block
+# Proyecto 4: Picas y Fijas
+## Conceptos: 
+Estructura de un programa de mediana complejidad. Generación de datos aleatorios. Pruebas unitarias para clases que usan aleatoriedad.
+## Soluciones:
 
-# Header 1
-## Header 2
-### Header 3
+# Proyecto 5: Juego del 15
+## Conceptos: 
+Estructuras de Datos: List, Set, Map y Queue. Implementaciones más comunes en Java.
+## Soluciones:
 
-- Bulleted
-- List
+# Proyecto 6: Blackjack
+## Conceptos: 
+Herencia, Interfaces y Clases Abstractas. Polimorfismo. Liskov Substitution Principle (LSP), Interface Segregation Principle (ISP) y DIP (Dependency Inversion Principle).
+## Soluciones:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BootcampFundamentos2018-1/page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Proyecto 7: Redimensionador de Imágenes
+## Conceptos: 
+Estrategias para el manejo de errores. Excepciones Checked y Unchecked. Asserts, AssertionError y Error.
+## Soluciones:
